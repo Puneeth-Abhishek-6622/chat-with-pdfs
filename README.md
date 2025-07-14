@@ -64,8 +64,10 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 Example
+
 ![App Screenshot](https://i.postimg.cc/7PjMSdwx/Screenshot-2025-07-14-205646.png)
+
+
 
 
 
