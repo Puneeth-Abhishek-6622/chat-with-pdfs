@@ -65,7 +65,8 @@ pip install -r requirements.txt
 ---
 
 ## 📝 Example
-![App Screenshot](https://placehold.co/800x400?text=App+Screenshot)
+![App Screenshot](https://i.postimg.cc/XYZ/your-image.jpg)
+
 
 - **Upload:** `sample.pdf`
 - **Ask:** "What is the main topic of the document?"
